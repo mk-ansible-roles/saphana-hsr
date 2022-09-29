@@ -1,6 +1,8 @@
 saphana-deploy
 ==============
 
+# THIS ROLE IS DEPRECATED AND WILL BE DELETED IN 12.2022<BR>use _community.sap_install_ collection instead
+
 This adds HANA System Replication (HSR) to previously deployed SAP HANA 1.0 SPS 12 and above (HANA2) systems.
 
 Requirements
